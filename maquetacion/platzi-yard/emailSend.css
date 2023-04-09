@@ -13,3 +13,7 @@
   background-color: var(--text-input-field);
   margin-bottom: 28px;
 }
+
+.subtitle span a{
+  color: var(--hospital-green);
+}
