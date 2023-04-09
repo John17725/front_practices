@@ -1,0 +1,15 @@
+.imagen{
+  display: grid;
+  place-content: center;
+}
+
+.container_logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--text-input-field);
+  margin-bottom: 28px;
+}
