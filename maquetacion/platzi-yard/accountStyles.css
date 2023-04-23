@@ -1,0 +1,12 @@
+.title {
+  text-align: start;
+}
+
+.form div {
+  display: flex;
+  flex-direction: column;
+}
+
+.edit-button {
+  margin-bottom: 18px;
+}
